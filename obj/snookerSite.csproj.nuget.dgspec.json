@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dimitris/Desktop/snookerSite/snookerSite.csproj": {}
+    "/home/dimitris/Desktop/snooker-live-scores/snookerSite.csproj": {}
   },
   "projects": {
-    "/home/dimitris/Desktop/snookerSite/snookerSite.csproj": {
+    "/home/dimitris/Desktop/snooker-live-scores/snookerSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dimitris/Desktop/snookerSite/snookerSite.csproj",
+        "projectUniqueName": "/home/dimitris/Desktop/snooker-live-scores/snookerSite.csproj",
         "projectName": "snookerSite",
-        "projectPath": "/home/dimitris/Desktop/snookerSite/snookerSite.csproj",
+        "projectPath": "/home/dimitris/Desktop/snooker-live-scores/snookerSite.csproj",
         "packagesPath": "/home/dimitris/.nuget/packages/",
-        "outputPath": "/home/dimitris/Desktop/snookerSite/obj/",
+        "outputPath": "/home/dimitris/Desktop/snooker-live-scores/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dimitris/.nuget/NuGet/NuGet.Config"
